@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-openai
+langchain-ollama
+ollama
+python-dotenv
+langchain_tavily
+langchain-mcp-adapters
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
