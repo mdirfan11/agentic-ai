@@ -12,3 +12,6 @@ sentence-transformers
 faiss-cpu
 chromadb
 pageindex
+tavily-python
+deepagents
+langsmith
