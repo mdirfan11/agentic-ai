@@ -15,3 +15,4 @@ pageindex
 tavily-python
 deepagents
 langsmith
+nltk
