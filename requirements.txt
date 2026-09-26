@@ -16,3 +16,16 @@ tavily-python
 deepagents
 langsmith
 nltk
+pandas
+langchain-text-splitters
+matplotlib
+numpy
+
+#Embedding
+langchain-huggingface
+
+astrapy
+langchain_astradb
+langchain_pinecone
+rank_bm25
+wikipedia
